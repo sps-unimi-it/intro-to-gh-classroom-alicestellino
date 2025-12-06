@@ -1,0 +1,5 @@
+# What I Learned
+
+- I learned how to clone a repository
+- I learned how to use Git commands
+- I'm still learning about commits and pushes
