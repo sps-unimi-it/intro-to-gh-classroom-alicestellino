@@ -1,0 +1,2 @@
+I've learned how to use commit and push commands in Git
+If you see this online, I've uderstood the process!
